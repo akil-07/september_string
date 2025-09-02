@@ -18,4 +18,5 @@ space++;
 printf("\nThe number of spaces are %d",space);
 getch();
 return 0;
+
 }
