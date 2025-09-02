@@ -7,7 +7,7 @@ int main() {
     printf("Enter a string: ");
     gets(str);
 
-    while (str[length] != '\0')
+    while (str[length]!='\0')
     {
         length++;
     }
